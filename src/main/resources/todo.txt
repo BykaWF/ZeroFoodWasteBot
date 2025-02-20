@@ -23,6 +23,8 @@ V. ProcessImageServe -> handleResponse()
     Here we need to work with different workflow, and we need gracefully solve it
 2. Train model to detect dates.
     Check research page and train
+    https://felizang.github.io/expdate/
+    YOU NEED TO TRAIN ANOTHER MODEL THAT WILL ABLE TO READ THOSE DATES, YOU HAVE MODEL THAT CAN DETECT, but do not read.
 3. Create frontend part
 --------------------------------------------------------------------------------
 
